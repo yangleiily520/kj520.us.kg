@@ -1,0 +1,1501 @@
+[{
+	"_id": "changyongruanjian",
+	"classify": "常用推荐",
+	"icon": "ti-fullscreen",
+	"sites": [{
+		"name": "Cloudflare",
+		"href": "https://www.cloudflare-cn.com/",
+		"desc": "",
+		"logo": "static/icons/Cloudflare.png"
+	},{
+		"name": "GitHub",
+		"href": "https://github.com/",
+		"desc": "",
+		"logo": "static/icons/GitHub.png"
+	},{
+		"name": "Gitee",
+		"href": "https://gitee.com/",
+		"desc": "",
+		"logo": "static/icons/Gitee.png"
+	},{
+		"name": "油小猴",
+		"href": "https://www.youxiaohou.com/",
+		"desc": "",
+		"logo": "static/icons/youxiaohou.png"
+	},{
+		"name": "吾爱破解",
+		"href": "https://www.52pojie.cn/",
+		"desc": "",
+		"logo": "static/icons/wapj.png"
+	},{
+		"name": "Youtube",
+		"href": "https://www.youtube.com/",
+		"desc": "",
+		"logo": "static/icons/Youtube.png"
+	},{
+		"name": "YouTube视频下载",
+		"href": "https://loader.fo/en/",
+		"desc": "",
+		"logo": "static/icons/YouTubefo.png"
+	},{
+		"name": "奈飞",
+		"href": "https://www.netflix.com/",
+		"desc": "",
+		"logo": "static/icons/netflix.png"
+	},{
+		"name": "迪士尼",
+		"href": "https://www.disneyplus.com/",
+		"desc": "",
+		"logo": "static/icons/disneyplus.png"
+	},{
+		"name": "Wordpress中文包",
+		"href": "https://cn.wordpress.org/download/releases/",
+		"desc": "",
+		"logo": "static/icons/Wordpress.png"
+	},{
+		"name": "国内流行宝塔运维面板",
+		"href": "https://www.bt.cn/",
+		"desc": "",
+		"logo": "static/icons/bt.cn.png"
+	},{
+		"name": "宝塔面板国际版",
+		"href": "https://www.aapanel.com/new/index.html/",
+		"desc": "",
+		"logo": "static/icons/aapanel.com.png"
+	},{
+		"name": "APK镜像",
+		"href": "https://www.apkmirror.com/",
+		"desc": "",
+		"logo": "static/icons/apkmirror.png"
+	},{
+		"name": "Google 文档",
+		"href": "https://docs.google.com/",
+		"desc": "",
+		"logo": "static/icons/docs.google.png"
+	},{
+		"name": "大力盘",
+		"href": "https://www.dalipan.com/",
+		"desc": "",
+		"logo": "static/icons/dalipan.png"
+	},{
+		"name": "网盘搜索",
+		"href": "https://bks.thefuture.top/",
+		"desc": "",
+		"logo": "static/icons/bks.thefuture.png"
+	},{
+		"name": "节点转换工具",
+		"href": "https://v2rayse.com/node-convert/",
+		"desc": "",
+		"logo": "static/icons/v2rayse.com.png"
+	},{
+		"name": "HTML颜色代码",
+		"href": "https://htmlcolorcodes.com/zh/",
+		"desc": "",
+		"logo": "static/icons/htmlcolorcodes.png"
+	},{
+		"name": "草料二维码生成器",
+		"href": "https://cli.im/",
+		"desc": "",
+		"logo": "static/icons/ckewmscq.png"
+	}]
+},{
+	"_id": "zaixianfanyi",
+	"classify": "在线翻译",
+	"icon": "ti-back-left",
+	"sites": [{
+		"name": "DeepL翻译",
+		"href": "https://www.deepl.com/zh/translator/",
+		"desc": "",
+		"logo": "static/icons/DeepL.png"
+	},{
+		"name": "必应翻译",
+		"href": "https://www.bing.com/translator/",
+		"desc": "",
+		"logo": "static/icons/microsoft.png"
+	},{
+		"name": "腾讯翻译",
+		"href": "https://transmart.qq.com/",
+		"desc": "",
+		"logo": "static/icons/transmart.png"
+	},{
+		"name": "有道翻译",
+		"href": "https://fanyi.youdao.com/",
+		"desc": "",
+		"logo": "static/icons/youdao.png"
+	},{
+		"name": "阿里翻译",
+		"href": "https://translate.alibaba.com/",
+		"desc": "",
+		"logo": "static/icons/alibaba.png"
+	},{
+		"name": "火山翻译",
+		"href": "https://translate.volcengine.com/",
+		"desc": "",
+		"logo": "static/icons/volcengine.png"
+	},{
+		"name": "谷歌翻译",
+		"href": "https://translate.google.com/",
+		"desc": "",
+		"logo": "static/icons/gugefy.png"
+	},{
+		"name": "讯飞文本翻译",
+		"href": "https://fanyi.xfyun.cn/console/trans/text/",
+		"desc": "",
+		"logo": "static/icons/xfyun.png"
+	},{
+		"name": "百度翻译",
+		"href": "https://fanyi.baidu.com/",
+		"desc": "",
+		"logo": "static/icons/baidufy.png"
+	},{
+		"name": "彩云小译",
+		"href": "https://fanyi.caiyunapp.com/",
+		"desc": "",
+		"logo": "static/icons/caiyunapp.png"
+	},{
+		"name": "搜狗翻译",
+		"href": "https://fanyi.sogou.com/",
+		"desc": "",
+		"logo": "static/icons/sogou.png"
+	}]
+},{ 
+	"_id": "wangsujiance",
+	"classify": "网速检测",
+	"icon": "ti-rss",
+	"sites": [{
+		"name": "fast测速",
+		"href": "https://fast.com/",
+		"desc": "",
+		"logo": "static/icons/fast.png"
+	},{
+		"name": "Speedtest",
+		"href": "https://www.speedtest.net/",
+		"desc": "",
+		"logo": "static/icons/Speedtest.png"
+	},{
+		"name": "Browser Scan",
+		"href": "https://www.browserscan.net/zh/speed-test/",
+		"desc": "",
+		"logo": "static/icons/Browser Scan.png"
+	},{
+		"name": "测速网",
+		"href": "https://www.speedtest.cn/",
+		"desc": "",
+		"logo": "static/icons/csw.png"
+	},{
+		"name": "LibreSpeed",
+		"href": "https://www.librespeed.cn/",
+		"desc": "",
+		"logo": "static/icons/LibreSpeed.png"
+	},{
+		"name": "梦飞测速网",
+		"href": "https://www.mfisp.com/speedtest/",
+		"desc": "",
+		"logo": "static/icons/mfcsw.png"
+	},{
+		"name": "中国科学技术大学测速",
+		"href": "https://test.ustc.edu.cn//",
+		"desc": "",
+		"logo": "static/icons/zgkxjsdxcs.png"
+	},{
+		"name": "东北大学测速",
+		"href": "https://speed.neu.edu.cn/",
+		"desc": "",
+		"logo": "static/icons/dbdxcs.png"
+	},{
+		"name": "美国洛杉矶",
+		"href": "https://us.speedtest.hostxen.com/",
+		"desc": "",
+		"logo": "static/icons/mggsj.png"
+	}]
+},{
+	"_id": "chuanqisifu",
+	"classify": "传奇私服",
+	"icon": "ti-envelope",
+	"sites": [{
+		"name": "好私服",
+		"href": "https://haosf.com/",
+		"desc": "",
+		"logo": "static/icons/haosf.png"
+	},{
+		"name": "找服网",
+		"href": "https://www.zhaofu.com/",
+		"desc": "",
+		"logo": "static/icons/zhaofu.png"
+	},{
+		"name": "找私服",
+		"href": "https://www.zhaohf.com/",
+		"desc": "",
+		"logo": "static/icons/zhaohf.png"
+	},{
+		"name": "搜服123",
+		"href": "https://sf123.com/",
+		"desc": "",
+		"logo": "static/icons/sf123.png"
+	},{
+		"name": "私服发布",
+		"href": "http://www.zjhaochao.com/",
+		"desc": "",
+		"logo": "static/icons/zjhaochao.png"
+	}]
+},{
+	"_id": "menghuanxiyou",
+	"classify": "梦幻西游",
+	"icon": "ti-harddrives",
+	"sites": [{
+		"name": "175DT答题器",
+		"href": "https://175dt.com/",
+		"desc": "",
+		"logo": "static/icons/175DT.png"
+	},{
+		"name": "梦幻藏宝阁",
+		"href": "https://xyq.cbg.163.com/",
+		"desc": "",
+		"logo": "static/icons/cbg.png"
+	},{
+		"name": "网页版工具箱",
+		"href": "https://xyq.163.com/tools/index.html/",
+		"desc": "",
+		"logo": "static/icons/wybgjx.png"
+	},{
+		"name": "符石组合",
+		"href": "https://xyq.163.com/dj020_4.html/",
+		"desc": "",
+		"logo": "static/icons/fszh.png"
+	},{
+		"name": "奇经八脉",
+		"href": "https://xyq.163.com/2021/jingmai/",
+		"desc": "",
+		"logo": "static/icons/qjbm.png"
+	},{
+		"name": "梦幻客服专区",
+		"href": "https://xyq.gm.163.com/",
+		"desc": "",
+		"logo": "static/icons/163.png"
+	},{
+		"name": "动物套属性",
+		"href": "https://ds.163.com/article/5fe484a0517f0f149bb1300f/",
+		"desc": "",
+		"logo": "static/icons/dwtsx.png"
+	},{
+		"name": "钟灵石属性",
+		"href": "https://www.3733.com/news/361710.html/",
+		"desc": "",
+		"logo": "static/icons/zlssx.png"
+	},{
+		"name": "法宝介绍",
+		"href": "https://ds.163.com/article/5fa9c9f57c87224d9e4260ac/",
+		"desc": "",
+		"logo": "static/icons/fbjs.png"
+	},{
+		"name": "法宝加灵气",
+		"href": "https://box.175dt.com/12/",
+		"desc": "",
+		"logo": "static/icons/fbjlq.png"
+	}]
+},{
+	"_id": "aigongju",
+	"classify": "AI工具",
+	"icon": "ti-blackboard",
+	"sites": [{
+		"name": "ChatGPT",
+		"href": "https://chatgpt.com/",
+		"desc": "",
+		"logo": "static/icons/ChatGPT.png"
+	},{
+		"name": "ChatGPT 4o",
+		"href": "https://chatgptchatapp.com/",
+		"desc": "",
+		"logo": "static/icons/ChatGPT 4o.png"
+	},{
+		"name": "ChatGAi",
+		"href": "https://chat.doltrans.com/",
+		"desc": "",
+		"logo": "static/icons/ChatGAi.png"
+	},{
+		"name": "ChatBot",
+		"href": "https://hzc1chat.skybyte.me/",
+		"desc": "",
+		"logo": "static/icons/ChatBot.png"
+	},{
+		"name": "Copilot",
+		"href": "https://copilot.microsoft.com/onboarding/",
+		"desc": "",
+		"logo": "static/icons/Copilot.png"
+	},{
+		"name": "AI_TOOL00",
+		"href": "https://uuu.mygpt.bid/",
+		"desc": "",
+		"logo": "static/icons/AI_TOOL00.png"
+	},{
+		"name": "NineBot AI（汇总）",
+		"href": "https://ai.ninebotai.com/",
+		"desc": "",
+		"logo": "static/icons/NineBot AI.png"
+	},{
+		"name": "AI创作助手国内版",
+		"href": "https://ai.codawise.com/",
+		"desc": "",
+		"logo": "static/icons/ai.codawise.png"
+	}]
+},{
+	"_id": "jiemapingtai",
+	"classify": "接码平台",
+	"icon": "ti-crown",
+	"sites": [{
+		"name": "YunJieMa",
+		"href": "https://yunjiema.net/",
+		"desc": "",
+		"logo": "static/icons/YunJieMa.png"
+	},{
+		"name": "zusms",
+		"href": "https://www.zusms.com/",
+		"desc": "",
+		"logo": "static/icons/zusms.png"
+	},{
+		"name": "yunduanxin",
+		"href": "https://yunduanxin.net/",
+		"desc": "",
+		"logo": "static/icons/yunduanxin.png"
+	},{
+		"name": "mianfeisms",
+		"href": "https://www.mianfeisms.xyz/",
+		"desc": "",
+		"logo": "static/icons/mianfeisms.png"
+	},{
+		"name": "jiemahao",
+		"href": "https://jiemahao.com/",
+		"desc": "",
+		"logo": "static/icons/jiemahao.png"
+	},{
+		"name": "sms-activate",
+		"href": "https://sms-activate.guru/en/",
+		"desc": "",
+		"logo": "static/icons/sms-activate.png"
+	},{
+		"name": "wetalk",
+		"href": "https://wetalkapp.com/receive-sms/",
+		"desc": "",
+		"logo": "static/icons/wetalk.png"
+	},{
+		"name": "US-Phone-Number",
+		"href": "https://us-phone-number.com/",
+		"desc": "",
+		"logo": "static/icons/US-Phone-Number.png"
+	}]
+},{
+	"_id": "ipganjingdujiance",
+	"classify": "IP干净度检测",
+	"icon": "ti-ruler-pencil",
+	"sites": [{
+		"name": "Scamalytics",
+		"href": "https://dnschecker.org/ip-location.php/",
+		"desc": "",
+		"logo": "static/icons/Scamalytics.png"
+	},{
+		"name": "IP-Score",
+		"href": "https://www.ip-score.com/",
+		"desc": "",
+		"logo": "static/icons/IP-Score.png"
+	},{
+		"name": "MY IP Lookup",
+		"href": "https://www.ipaddress.com/what-is-my-ip-address/",
+		"desc": "",
+		"logo": "static/icons/MY IP Lookup.png"
+	},{
+		"name": "Whatismyipaddress",
+		"href": "https://ipleak.com/full-report/",
+		"desc": "",
+		"logo": "static/icons/Whatismyipaddress.png"
+	}]
+},{
+	"_id": "ipdizhijiance",
+	"classify": "IP地址检测",
+	"icon": "ti-menu",
+	"sites": [{
+		"name": "IP地址检测",
+		"href": "https://whoer.net/zh/",
+		"desc": "",
+		"logo": "static/icons/whoer.png"
+	},{
+		"name": "IP地址查询",
+		"href": "https://ip.900cha.com/",
+		"desc": "",
+		"logo": "static/icons/900cha.png"
+	},{
+		"name": "查看本机IP地址",
+		"href": "https://iplark.com/",
+		"desc": "",
+		"logo": "static/icons/iplark.png"
+	},{
+		"name": "IP Address",
+		"href": "https://iplocation.io/",
+		"desc": "",
+		"logo": "static/icons/IP Address.png"
+	},{
+		"name": "IP Address Lookup",
+		"href": "https://dnschecker.org/ip-location.php",
+		"desc": "",
+		"logo": "static/icons/IP Address Lookup.png"
+	},{
+		"name": "My IP Addressk",
+		"href": "https://whatismyipaddress.com/",
+		"desc": "",
+		"logo": "static/icons/My IP Address.png"
+	},{
+		"name": "ipaddress",
+		"href": "https://www.ipaddress.com/what-is-my-ip-address/",
+		"desc": "",
+		"logo": "static/icons/ipaddress.png"
+	},{
+		"name": "IP VOID",
+		"href": "https://www.ipvoid.com/ip-blacklist-check/",
+		"desc": "",
+		"logo": "static/icons/IP VOID.png"
+	},{ 
+		"name": "IP Leak",
+		"href": "https://ipleak.com/full-report/",
+		"desc": "",
+		"logo": "static/icons/IP Leak.png"
+	}]
+},{
+	"_id": "xitongxizai",
+	"classify": "系统下载",
+	"icon": "ti-arrow-down",
+	"sites": [{
+		"name": "WINOS",
+		"href": "https://www.winos.me/",
+		"desc": "",
+		"logo": "static/icons/WINOS.png"
+	},{
+		"name": "MSDN原版系统",
+		"href": "https://www.imsdn.cn/",
+		"desc": "",
+		"logo": "static/icons/MSDNybxt.png"
+	},{
+		"name": "系统镜像",
+		"href": "http://www.xitongiso.com/",
+		"desc": "",
+		"logo": "static/icons/xtjx.png"
+	},{
+		"name": "大地系统",
+		"href": "https://www.dadighost.com/",
+		"desc": "",
+		"logo": "static/icons/ddxt.png"
+	},{
+		"name": "系统之家",
+		"href": "https://www.xitongzhijia.net/",
+		"desc": "",
+		"logo": "static/icons/xtzj.png"
+	},{
+		"name": "纯净系统",
+		"href": "http://www.chunjingxitong.com/",
+		"desc": "",
+		"logo": "static/icons/cjxt.png"
+	},{
+		"name": "纯净系统基地",
+		"href": "http://www.cjbxt.com/",
+		"desc": "",
+		"logo": "static/icons/cjxtjd.png"
+	},{
+		"name": "MSDN, 我告诉你",
+		"href": "https://msdn.itellyou.cn/",
+		"desc": "",
+		"logo": "static/icons/MSDNwgsn.png"
+	},{
+		"name": "MSDN系统库",
+		"href": "https://www.xitongku.com/",
+		"desc": "",
+		"logo": "static/icons/MSDNxtk.png"
+	}]
+},{
+	"_id": "tupianbianji",
+	"classify": "图片编辑",
+	"icon": "ti-layout",
+	"sites": [{
+		"name": "iloveimg",
+		"href": "https://www.iloveimg.com/zh-cn/",
+		"desc": "",
+		"logo": "static/icons/iloveimg.png"
+	},{
+		"name": "图片转换",
+		"href": "https://cdkm.com/cn/png-to-svg/",
+		"desc": "",
+		"logo": "static/icons/png-to-svg.png"
+	},{
+		"name": "Photopea在线",
+		"href": "https://www.photopea.com/",
+		"desc": "",
+		"logo": "static/icons/Photopea.png"
+	},{
+		"name": "懒人办公",
+		"href": "https://www.lanren.work/",
+		"desc": "",
+		"logo": "static/icons/lanren.png"
+	},{
+		"name": "免费编辑图片",
+		"href": "https://www.fotor.com/cn/",
+		"desc": "",
+		"logo": "static/icons/fotor.png"
+	},{
+		"name": "改图宝",
+		"href": "https://www.gaitubao.com/",
+		"desc": "",
+		"logo": "static/icons/gaitubao.png"
+	},{
+		"name": "图片转文字",
+		"href": "https://web.baimiaoapp.com/",
+		"desc": "",
+		"logo": "static/icons/baimiaoapp.png"
+	},{
+		"name": "图标获取Api接口",
+		"href": "https://www.favicon.vip/",
+		"desc": "",
+		"logo": "static/icons/favicon.png"
+	},{
+		"name": "网站图标获取",
+		"href": "https://toolb.cn/favicon",
+		"desc": "",
+		"logo": "static/icons/toolb.png"
+	},{
+		"name": "网页图标抓取",
+		"href": "https://gonglue.qinggl.com/app/img/icon.jsp",
+		"desc": "",
+		"logo": "static/icons/gonglue.qinggl.png"
+	},{
+		"name": "虚拟头像",
+		"href": "https://avatarmaker.com/",
+		"desc": "",
+		"logo": "static/icons/avatarmaker.png"
+	},{
+		"name": "美国地址生成",
+		"href": "https://www.meiguodizhi.com/",
+		"desc": "",
+		"logo": "static/icons/meiguodizhi.png"
+	},{
+		"name": "美国地址生成器",
+		"href": "https://ratenn.com/american.html/",
+		"desc": "",
+		"logo": "static/icons/ratenn.png"
+	},{
+		"name": "【假证生成器】",
+		"href": "https://edu.chatgpt.org.uk/",
+		"desc": "",
+		"logo": "static/icons/edu.png"
+	}]
+},{
+	"_id": "mianfeituchuang",
+	"classify": "免费图床",
+	"icon": "ti-palette",
+	"sites": [{
+		"name": "imgse",
+		"href": "https://imgse.com/",
+		"desc": "",
+		"logo": "static/icons/imgse.png"
+	},{
+		"name": "imgur",
+		"href": "https://imgur.com/",
+		"desc": "",
+		"logo": "static/icons/imgur.png"
+	},{
+		"name": "imagehub",
+		"href": "https://www.imagehub.cc/",
+		"desc": "",
+		"logo": "static/icons/imagehub.png"
+	},{
+		"name": "imgbb",
+		"href": "https://imgbb.com/",
+		"desc": "",
+		"logo": "static/icons/imgbb.png"
+	},{
+		"name": "postimages",
+		"href": "https://postimages.org/",
+		"desc": "",
+		"logo": "static/icons/postimages.png"
+	},{
+		"name": "imgurl",
+		"href": "https://www.imgurl.org/",
+		"desc": "",
+		"logo": "static/icons/imgurl.png"
+	},{
+		"name": "z4a",
+		"href": "https://z4a.net/",
+		"desc": "",
+		"logo": "static/icons/z4a.png"
+	},{
+		"name": "sm.ms",
+		"href": "https://smms.app/",
+		"desc": "",
+		"logo": "static/icons/sm.ms.png"
+	}]
+},{
+	"_id": "youxiangfenxiang",
+	"classify": "邮箱分享",
+	"icon": "ti-email",
+	"sites": [{
+		"name": "Gmail 临时邮箱",
+		"href": "https://www.emailnator.com/",
+		"desc": "",
+		"logo": "static/icons/emailnator.png"
+	},{
+		"name": "临时邮箱",
+		"href": "https://www.linshiguge.com/",
+		"desc": "",
+		"logo": "static/icons/linshiguge.png"
+	},{
+		"name": "outlook邮箱",
+		"href": "https://outlook.live.com/mail/",
+		"desc": "",
+		"logo": "static/icons/outlook.png"
+	},{
+		"name": "Google邮箱",
+		"href": "https://www.google.com/intl/zh-CN_cn/gmail/about/",
+		"desc": "",
+		"logo": "static/icons/Google.png"
+	},{
+		"name": "Proton邮箱",
+		"href": "https://account.proton.me/zh-cn/mail/signup/",
+		"desc": "",
+		"logo": "static/icons/Proton.png"
+	},{
+		"name": "163邮箱",
+		"href": "https://mail.163.com/",
+		"desc": "",
+		"logo": "static/icons/163.png"
+	},{
+		"name": "126邮箱",
+		"href": "https://mail.126.com/",
+		"desc": "",
+		"logo": "static/icons/163.png"
+	},{
+		"name": "Yeah邮箱",
+		"href": "https://www.yeah.net/",
+		"desc": "",
+		"logo": "static/icons/163.png"
+	},{
+		"name": "QQ邮箱",
+		"href": "https://mail.qq.com/",
+		"desc": "",
+		"logo": "static/icons/QQ.png"
+	},{
+		"name": "Yahoo邮箱",
+		"href": "https://mail.yahoo.com/",
+		"desc": "",
+		"logo": "static/icons/Yahoo.png"
+	}]
+},{
+	"_id": "wangpanfenxiang",
+	"classify": "网盘分享",
+	"icon": "ti-save-alt",
+	"sites": [{
+		"name": "123云盘",
+		"href": "https://www.123pan.com/",
+		"desc": "",
+		"logo": "static/icons/123.png"
+	},{
+		"name": "小飞机云盘",
+		"href": "https://www.feijipan.com/",
+		"desc": "",
+		"logo": "static/icons/feijipan.png"
+	},{
+		"name": "阿里云盘",
+		"href": "https://www.alipan.com/",
+		"desc": "",
+		"logo": "static/icons/alipan.png"
+	},{
+		"name": "城通网盘",
+		"href": "https://www.ctfile.com/p/login/",
+		"desc": "",
+		"logo": "static/icons/ctfile.png"
+	},{
+		"name": "蓝泰云",
+		"href": "https://pc.woozooo.com/account.php/",
+		"desc": "",
+		"logo": "static/icons/woozooo.png"
+	},{
+		"name": "百度网盘",
+		"href": "https://pan.baidu.com/",
+		"desc": "",
+		"logo": "static/icons/baidu.png"
+	},{
+		"name": "天翼云盘",
+		"href": "https://cloud.189.cn/web/login.html/",
+		"desc": "",
+		"logo": "static/icons/189.png"
+	},{
+		"name": "微软云盘",
+		"href": "https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage/",
+		"desc": "",
+		"logo": "static/icons/microsoft.png"
+	},{
+		"name": "谷歌云盘",
+		"href": "https://workspace.google.com/products/drive/",
+		"desc": "",
+		"logo": "static/icons/Google.png"
+	},{
+		"name": "苹果云盘",
+		"href": "https://www.icloud.com/",
+		"desc": "",
+		"logo": "static/icons/icloud.png"
+	},{
+		"name": "MediaFir",
+		"href": "https://www.mediafire.com/",
+		"desc": "",
+		"logo": "static/icons/MediaFir.png"
+	},{
+		"name": "infini-cloud",
+		"href": "https://infini-cloud.net/en/",
+		"desc": "",
+		"logo": "static/icons/infini-cloud.png"
+	},{
+		"name": "B2云存储",
+		"href": "https://www.backblaze.com/",
+		"desc": "",
+		"logo": "static/icons/backblaze.png"
+	},{
+		"name": "mega网盘",
+		"href": "https://mega.io/",
+		"desc": "",
+		"logo": "static/icons/mega.png"
+	},{
+		"name": "pcloud网盘",
+		"href": "https://u.pcloud.com/#page=login/",
+		"desc": "",
+		"logo": "static/icons/pcloud.png"
+	}]
+},{
+	"_id": "jiediangongju",
+	"classify": "节点工具",
+	"icon": "ti-briefcase",
+	"sites": [{
+		"name": "优选IP",
+		"href": "https://stock.hostmonit.com/CloudFlareYes/",
+		"desc": "全球主机监控 - 国内外VPS",
+		"logo": "static/icons/stock.png"
+	},{
+		"name": "Cloudflare Scanner",
+		"href": "https://cloudflare-scanner.vercel.app/",
+		"desc": "Cloudflare 优选IP",
+		"logo": "static/icons/Cloudflare Scanner.png"
+	},{
+		"name": "节点池",
+		"href": "https://yangleiily.yangleiily.workers.dev/",
+		"desc": "自建节点池",
+		"logo": "static/icons/workers.png"
+	},{
+		"name": "免费Clash节点",
+		"href": "https://clashgithub.com/",
+		"desc": "免费节点每日分享",
+		"logo": "static/icons/clashgithub.png"
+	},{
+		"name": "Configs List",
+		"href": "https://xconfig.pages.dev/index2/",
+		"desc": "github网站制作节点",
+		"logo": "static/icons/Configs List.png"
+	}]
+},{
+	"_id": "mianfeijichang",
+	"classify": "免费机场",
+	"icon": "ti-timer",
+	"sites": [{
+		"name": "Free机场",
+		"href": "https://zero.2c.lol/#/register?code=ThFYPVVY/",
+		"desc": "优惠码：free7 free加月份",
+		"logo": "static/icons/ThFYPVVY.png"
+	},{
+		"name": "云猫机场",
+		"href": "https://cloudcat.top/#/register?code=UOyClGbi/",
+		"desc": "优惠码：cloudcat7   cloudcat加月份",
+		"logo": "static/icons/cloudcat.png"
+	},{
+		"name": "ninecloud",
+		"href": "https://gov.ninecloud.co/#/login/",
+		"desc": "优惠吗：c",
+		"logo": "static/icons/ninecloud.png"
+	},{
+		"name": "白嫖机场",
+		"href": "https://bplink.xyz/#/dashboard/store/plan/2/",
+		"desc": "优惠吗：@bplikxyz",
+		"logo": "static/icons/dashboard.png"
+	},{
+		"name": "Alice Network",
+		"href": "https://alice.sale/#/register?code=4xOhUNj8/",
+		"desc": "优惠吗：happyalice",
+		"logo": "static/icons/Alice Network.png"
+	},{
+		"name": "绝绝子",
+		"href": "https://www.31465.cfd/#/register?code=5RV0pkqh/",
+		"desc": "优惠吗：绝绝子开业大吉",
+		"logo": "static/icons/cfd.png"
+	},{
+		"name": "蓝焰云",
+		"href": "https://pkq.xlm.plus/#/register?code=lmzWUdrh/",
+		"desc": "",
+		"logo": "static/icons/pkq.xlm.png"
+	},{
+		"name": "免费空气",
+		"href": "https://free.colacloud.free.hr/#/register?code=ZMUXeW38/",
+		"desc": "",
+		"logo": "static/icons/free.colacloud.png"
+	},{
+		"name": "养老机场",
+		"href": "https://xn--l6qx3lcvp58x.com/#/register?code=MeSlgmAK/",
+		"desc": "",
+		"logo": "static/icons/MeSlgmAK.png"
+	},{
+		"name": "一元云",
+		"href": "https://1vpn.sbs/#/register/",
+		"desc": "",
+		"logo": "static/icons/register.png"
+	},{
+		"name": "火星互联网交换中心",
+		"href": "https://console.marsix.net/#/login/",
+		"desc": "",
+		"logo": "static/icons/console.png"
+	},{
+		"name": "Helium Network",
+		"href": "https://dash.henet.uk/",
+		"desc": "",
+		"logo": "static/icons/Helium Network.png"
+	},{
+		"name": "IKUUU VPN",
+		"href": "https://ikuuu.pw/auth/login/",
+		"desc": "",
+		"logo": "static/icons/IKUUU VPN.png"
+	}]
+},{
+	"_id": "yunfuwuqi",
+	"classify": "云服务器",
+	"icon": "ti-shield",
+	"sites": [{
+		"name": "甲骨文云",
+		"href": "https://www.oracle.com/cn/cloud/free/",
+		"desc": "永久免费的服务器",
+		"logo": "static/icons/oracle.png"
+	},{
+		"name": "亚马逊云",
+		"href": "https://portal.aws.amazon.com/billing/signup#/start/email/",
+		"desc": "免费一年EC2,三个月轻量",
+		"logo": "static/icons/aws.png"
+	},{
+		"name": "微软云",
+		"href": "https://azure.microsoft.com/zh-cn/free/",
+		"desc": "免费一个月",
+		"logo": "static/icons/microsoft.png"
+	},{
+		"name": "谷歌云",
+		"href": "https://cloud.google.com/?authuser=1/",
+		"desc": "免费三个月",
+		"logo": "static/icons/cloud.google.png"
+	},{
+		"name": "Gcore",
+		"href": "https://gcore.com/",
+		"desc": "云平台3欧元每月",
+		"logo": "static/icons/Gcore.png"
+	},{
+		"name": "OVHcloud",
+		"href": "https://www.ovhcloud.com/en-sg/",
+		"desc": "老牌法国厂商",
+		"logo": "static/icons/OVHcloud.png"
+	},{
+		"name": "V.PS",
+		"href": "https://v.ps/",
+		"desc": "有软银线路的机器6刀一个月",
+		"logo": "static/icons/V.PS.png"
+	},{
+		"name": "HostEONS",
+		"href": "https://hosteons.com/",
+		"desc": "老牌厂商12美元一年",
+		"logo": "static/icons/HostEONS.png"
+	},{
+		"name": "Layerstack",
+		"href": "https://www.layerstack.com/",
+		"desc": "东亚北美主机有GIA线路",
+		"logo": "static/icons/Layerstack.png"
+	},{
+		"name": "bandwagonhost",
+		"href": "https://bandwagonhost.com/",
+		"desc": "搬瓦工CN2GIA代表",
+		"logo": "static/icons/bandwagonhost.png"
+	},{
+		"name": "DMIT",
+		"href": "https://www.dmit.io/",
+		"desc": "优质VPS服务商",
+		"logo": "static/icons/DMIT.png"
+	},{
+		"name": "RackNerd",
+		"href": "https://my.racknerd.com/aff.php?aff=5334/",
+		"desc": "9.89美元一年服务器",
+		"logo": "static/icons/RackNerd.png"
+	},{
+		"name": "JustHost.ru",
+		"href": "https://justhost.ru/zh/",
+		"desc": "俄罗斯三网CN2 11RMB每月",
+		"logo": "static/icons/JustHost.ru.png"
+	},{
+		"name": "LightNode",
+		"href": "https://www.lightnode.com/",
+		"desc": "埃及土耳其巴铁VPS",
+		"logo": "static/icons/LightNode.png"
+	},{
+		"name": "HostHatch",
+		"href": "https://cloud.hosthatch.com/signup/",
+		"desc": "性价比大鸡VPS",
+		"logo": "static/icons/HostHatch.png"
+	},{
+		"name": "RCP",
+		"href": "https://www.rcp.net/zh-hans/",
+		"desc": "日本优质线路",
+		"logo": "static/icons/RCP.png"
+	},{
+		"name": "LiteServer",
+		"href": "https://liteserver.nl/",
+		"desc": "荷兰大盘鸡",
+		"logo": "static/icons/LiteServer.png"
+	},{
+		"name": "netcup",
+		"href": "https://www.netcup.eu/",
+		"desc": "欧洲大盘鸡3刀每月",
+		"logo": "static/icons/netcup.png"
+	},{
+		"name": "Hetzner",
+		"href": "https://www.hetzner.com/",
+		"desc": "芬兰德国强机3刀每月",
+		"logo": "static/icons/Hetzner.png"
+	},{
+		"name": "atlantic",
+		"href": "https://cloud.atlantic.net/",
+		"desc": "大西洋可白嫖一年",
+		"logo": "static/icons/atlantic.png"
+	},{
+		"name": "iON Cloud",
+		"href": "https://ion.krypt.asia/",
+		"desc": "国区优化线路",
+		"logo": "static/icons/iON Cloud.png"
+	},{
+		"name": "Spartan host",
+		"href": "https://spartanhost.org/",
+		"desc": "斯巴达美国机CN2GIA",
+		"logo": "static/icons/Spartan host.png"
+	},{
+		"name": "fuzzypn",
+		"href": "https://cloud.fuzzypn.me/",
+		"desc": "越南VPS移动优化",
+		"logo": "static/icons/fuzzypn.png"
+	},{
+		"name": "scaleway",
+		"href": "https://console.scaleway.com/",
+		"desc": "星尘IPv6特价服务器",
+		"logo": "static/icons/scaleway.png"
+	},{
+		"name": "DigitalOcean",
+		"href": "https://www.digitalocean.com/",
+		"desc": "简称D0可白嫖200美元",
+		"logo": "static/icons/DigitalOcean.png"
+	},{
+		"name": "Linode",
+		"href": "https://www.linode.com/",
+		"desc": "100美金2个月",
+		"logo": "static/icons/Linode.png"
+	},{
+		"name": "CloudCone",
+		"href": "https://app.cloudcone.com/?ref=10734/",
+		"desc": "9.9美元1年",
+		"logo": "static/icons/CloudCone.png"
+	},{
+		"name": "Vultr",
+		"href": "https://www.vultr.com/?ref=8981695/",
+		"desc": "老牌VPS服务商",
+		"logo": "static/icons/Vultr.png"
+	}]
+},{
+	"_id": "xunizhuji",
+	"classify": "虚拟主机",
+	"icon": "ti-receipt",
+	"sites": [{
+		"name": "infinityfree",
+		"href": "https://www.infinityfree.com/",
+		"desc": "",
+		"logo": "static/icons/infinityfree.png"
+	},{
+		"name": "serv00",
+		"href": "https://www.serv00.com/",
+		"desc": "",
+		"logo": "static/icons/serv00.png"
+	},{
+		"name": "韩国主机",
+		"href": "https://nowhosting.kr/",
+		"desc": "",
+		"logo": "static/icons/nowhosting.png"
+	},{
+		"name": "BIZ.NF",
+		"href": "https://www.biz.nf/",
+		"desc": "",
+		"logo": "static/icons/BIZ.NF.png"
+	},{
+		"name": "Freehostia",
+		"href": "https://www.freehostia.com/free-cloud-hosting/",
+		"desc": "",
+		"logo": "static/icons/Freehostia.png"
+	},{
+		"name": "cklghost.in",
+		"href": "https://cklghost.in/",
+		"desc": "",
+		"logo": "static/icons/cklghost.in.png"
+	},{
+		"name": "evai.pl",
+		"href": "http://evai.pl/",
+		"desc": "",
+		"logo": "static/icons/evai.pl.png"
+	},{
+		"name": "alchosting",
+		"href": "https://www.alchosting.net/free-hosting/",
+		"desc": "",
+		"logo": "static/icons/alchosting.png"
+	},{
+		"name": "beget",
+		"href": "https://beget.com/en/hosting/free/",
+		"desc": "",
+		"logo": "static/icons/beget.png"
+	}]
+},{
+	"_id": "youguanjiaocheng",
+	"classify": "油管教程",
+	"icon": "ti-control-play",
+	"sites": [{
+		"name": "infinityfree",
+		"href": "https://www.youtube.com/watch?v=q9o-rSHSg_k/",
+		"desc": "",
+		"logo": "static/icons/Youtube.png"
+	},{
+		"name": "serv00",
+		"href": "https://www.youtube.com/watch?v=SYIddRvTCyo&list=PLypCuqQf44_kjc6uavsIJGWzGgAVAs2Kf&index=20/",
+		"desc": "",
+		"logo": "static/icons/Youtube.png"
+	},{
+		"name": "韩国主机",
+		"href": "https://www.youtube.com/watch?v=VVIbdwqV2WA/",
+		"desc": "",
+		"logo": "static/icons/Youtube.png"
+	},{
+		"name": "BIZ.NF",
+		"href": "https://www.youtube.com/watch?v=27nLE1UquNY/",
+		"desc": "",
+		"logo": "static/icons/Youtube.png"
+	},{
+		"name": "Freehostia",
+		"href": "https://www.youtube.com/watch?v=1mrXluQN0wg/",
+		"desc": "",
+		"logo": "static/icons/Youtube.png"
+	},{
+		"name": "cklghost.in",
+		"href": "https://www.youtube.com/watch?v=vcmhlbKY2kU/",
+		"desc": "",
+		"logo": "static/icons/Youtube.png"
+	},{
+		"name": "evai.pl",
+		"href": "https://www.youtube.com/watch?v=AMvPIjMuKT4/",
+		"desc": "",
+		"logo": "static/icons/Youtube.png"
+	},{
+		"name": "alchosting",
+		"href": "https://www.youtube.com/watch?v=PwdbgedxShg/",
+		"desc": "",
+		"logo": "static/icons/Youtube.png"
+	},{
+		"name": "beget",
+		"href": "https://www.youtube.com/watch?v=4T9tR9ioLKc/",
+		"desc": "",
+		"logo": "static/icons/Youtube.png"
+	}]
+},{
+	"_id": "yumingfenxiang",
+	"classify": "域名分享",
+	"icon": "ti-world",
+	"sites": [{
+		"name": "clouDNS",
+		"href": "https://www.cloudns.net/",
+		"desc": "",
+		"logo": "static/icons/clouDNS.png"
+	},{
+		"name": "x10 hosting",
+		"href": "https://x10hosting.com/login/",
+		"desc": "",
+		"logo": "static/icons/x10 hosting.png"
+	},{
+		"name": "pp.ua",
+		"href": "https://nic.ua/",
+		"desc": "",
+		"logo": "static/icons/pp.ua.png"
+	},{
+		"name": "us.kg",
+		"href": "https://nic.us.kg/",
+		"desc": "",
+		"logo": "static/icons/us.kg.png"
+	},{
+		"name": "eu.org",
+		"href": "https://nic.eu.org/",
+		"desc": "",
+		"logo": "static/icons/eu.org.png"
+	},{
+		"name": "nom.za",
+		"href": "https://secure.nom.za/",
+		"desc": "",
+		"logo": "static/icons/nom.za.png"
+	},{
+		"name": "obl.ong",
+		"href": "https://home.obl.ong/",
+		"desc": "",
+		"logo": "static/icons/obl.ong.png"
+	},{
+		"name": "153域名",
+		"href": "https://www.l53.net/",
+		"desc": "",
+		"logo": "static/icons/yumin.png"
+	},{
+		"name": "onamae",
+		"href": "https://www.onamae.com/",
+		"desc": "",
+		"logo": "static/icons/onamae.png"
+	},{
+		"name": "dynu",
+		"href": "https://www.dynu.com/",
+		"desc": "",
+		"logo": "static/icons/dynu.png"
+	},{
+		"name": "dynv6",
+		"href": "https://dynv6.com/",
+		"desc": "",
+		"logo": "static/icons/dynv6.png"
+	},{
+		"name": "site.ac",
+		"href": "https://www.site.ac/",
+		"desc": "",
+		"logo": "static/icons/site.ac.png"
+	}]
+},{
+	"_id": "windowsruanjianxiazai",
+	"classify": "Windows软件下载",
+	"icon": "ti-bar-chart-alt",
+	"sites": [{
+		"name": "v2reyN软件",
+		"href": "https://github.com/2dust/v2rayN/releases/",
+		"desc": "",
+		"logo": "static/icons/v2rayNG.png"
+	},{
+		"name": "Clash软件",
+		"href": "https://github.com/Z-Siqi/Clash-for-Windows_Chinese/releases/",
+		"desc": "",
+		"logo": "static/icons/Clash.png"
+	},{
+		"name": "Clash.Meta内核",
+		"href": "https://github.com/MetaCubeX/mihomo/releases/",
+		"desc": "",
+		"logo": "static/icons/Clash.png"
+	},{
+		"name": "Clash Verge",
+		"href": "https://github.com/clash-verge-rev/clash-verge-rev/releases/",
+		"desc": "",
+		"logo": "static/icons/Clash.png"
+	},{
+		"name": "Nekoray",
+		"href": "https://github.com/MatsuriDayo/nekoray/releases/",
+		"desc": "",
+		"logo": "static/icons/NekoBox.png"
+	},{
+		"name": "Hiddify",
+		"href": "https://github.com/hiddify/hiddify-next/releases/",
+		"desc": "",
+		"logo": "static/icons/Hiddify.png"
+	}]
+},{
+	"_id": "anzhuoappxiazai",
+	"classify": "安卓APP下载",
+	"icon": "ti-help-alt",
+	"sites": [{
+		"name": "v2rayNG",
+		"href": "https://github.com/2dust/v2rayNG/releases/",
+		"desc": "",
+		"logo": "static/icons/v2rayNG.png"
+	},{
+		"name": "Clash",
+		"href": "https://github.com/Yanzzp/clash_for_android/",
+		"desc": "",
+		"logo": "static/icons/Clash.png"
+	},{
+		"name": "Clash Meta",
+		"href": "https://github.com/MetaCubeX/ClashMetaForAndroid/releases/",
+		"desc": "",
+		"logo": "static/icons/Clash Meta.png"
+	},{
+		"name": "NekoBox",
+		"href": "https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/",
+		"desc": "",
+		"logo": "static/icons/NekoBox.png"
+	},{
+		"name": "surfboard",
+		"href": "https://github.com/getsurfboard/surfboard/releases/",
+		"desc": "",
+		"logo": "static/icons/surfboard.png"
+	},{
+		"name": "sing-box",
+		"href": "https://github.com/SagerNet/sing-box/releases/",
+		"desc": "",
+		"logo": "static/icons/sing-box.png"
+	},{
+		"name": "Hiddify",
+		"href": "https://github.com/hiddify/hiddify-next/releases/",
+		"desc": "",
+		"logo": "static/icons/Hiddify.png"
+	}]
+},{
+	"_id": "iosruanjianxiazai",
+	"classify": "IOS软件下载",
+	"icon": "ti-face-smile",
+	"sites": [{
+		"name": "Clash X",
+		"href": "https://clashxhub.com/clash-backup-download/",
+		"desc": "",
+		"logo": "static/icons/Clash.png"
+	},{
+		"name": "Clash",
+		"href": "https://clashxhub.com/clash-backup-download/",
+		"desc": "",
+		"logo": "static/icons/Clash.png"
+	},{
+		"name": "Clash Verge",
+		"href": "https://clashverge.net/",
+		"desc": "",
+		"logo": "static/icons/Clash.png"
+	},{
+		"name": "Nekoray",
+		"href": "https://nekoray.com/",
+		"desc": "",
+		"logo": "static/icons/NekoBox.png"
+	},{
+		"name": "Hiddify",
+		"href": "https://github.com/hiddify/hiddify-next/releases/",
+		"desc": "",
+		"logo": "static/icons/Hiddify.png"
+	},{
+		"name": "Shadowrocket（小火箭）",
+		"href": "https://apps.apple.com/bo/app/shadowrocket/id932747118?l=en/",
+		"desc": "",
+		"logo": "static/icons/Shadowrocket.png"
+	}]
+},{
+	"_id": "javbusshipin",
+	"classify": "JavBus视频",
+	"icon": "ti-star",
+	"sites": [{
+		"name": "javbus.com",
+		"href": "https://www.javbus.com/",
+		"desc": "",
+		"logo": "static/icons/javbus.com.png"
+	},{
+		"name": "buscdn.help",
+		"href": "https://www.buscdn.help/",
+		"desc": "",
+		"logo": "static/icons/javbus.com.png"
+	},{
+		"name": "javbus.help",
+		"href": "https://javbus.help/",
+		"desc": "",
+		"logo": "static/icons/javbus.com.png"
+	},{
+		"name": "busfan.help",
+		"href": "https://busfan.help/",
+		"desc": "",
+		"logo": "static/icons/javbus.com.png"
+	},{
+		"name": "fanbus.help",
+		"href": "http://fanbus.help/",
+		"desc": "",
+		"logo": "static/icons/javbus.com.png"
+	},{
+		"name": "seejav.help",
+		"href": "http://seejav.help/",
+		"desc": "",
+		"logo": "static/icons/javbus.com.png"
+	}]
+},{
+	"_id": "ciliwangzhan",
+	"classify": "磁力网站",
+	"icon": "ti-search",
+	"sites": [{
+		"name": "Jav目录",
+		"href": "https://javmulu.net/",
+		"desc": "",
+		"logo": "static/icons/javmulu.png"
+	},{
+		"name": "Jav DB",
+		"href": "https://javdb521.com/",
+		"desc": "",
+		"logo": "static/icons/Jav DB.png"
+	},{
+		"name": "JAV Library",
+		"href": "https://www.javlibrary.com/cn/",
+		"desc": "",
+		"logo": "static/icons/JAV Library.png"
+	},{
+		"name": "ATTACKERS.NET",
+		"href": "https://attackers.net/",
+		"desc": "",
+		"logo": "static/icons/ATTACKERS.NET.png"
+	},{
+		"name": "ATTACKERS",
+		"href": "https://ero.memo.wiki/d/ATTACKERS/",
+		"desc": "",
+		"logo": "static/icons/ATTACKERS.png"
+	}]
+},{
+	"_id": "daohangwangzhan",
+	"classify": "导航网站",
+	"icon": "ti-settings",
+	"sites": [{
+		"name": "站点导航",
+		"href": "https://pipigou805.top/",
+		"desc": "",
+		"logo": "static/icons/pipigou805.png"
+	},{
+		"name": "S.S.G.導航",
+		"href": "https://ssguide.xyz/",
+		"desc": "",
+		"logo": "static/icons/ssguide.png"
+	},{
+		"name": "141JJ最全成人",
+		"href": "https://141jj.com/",
+		"desc": "",
+		"logo": "static/icons/141jj.png"
+	},{
+		"name": "聚BT - 磁力资源",
+		"href": "https://jubt.fun/cn/index.html/",
+		"desc": "",
+		"logo": "static/icons/jubt.funcn.png"
+	},{
+		"name": "文尼导航",
+		"href": "https://biglist.xyz/",
+		"desc": "",
+		"logo": "static/icons/biglist.png"
+	},{
+		"name": "同学导航",
+		"href": "https://txscz.com/",
+		"desc": "",
+		"logo": "static/icons/txscz.png"
+	},{
+		"name": "夜夜草",
+		"href": "https://yycdh30.com:56701/",
+		"desc": "",
+		"logo": "static/icons/yycdh30.png"
+	},{
+		"name": "娇色导航",
+		"href": "https://jiao.se/",
+		"desc": "",
+		"logo": "static/icons/jiao.png"
+	}]
+},{
+	"_id": "zaixianwangzhan",
+	"classify": "在线网站",
+	"icon": "ti-dropbox-alt",
+	"sites": [{
+		"name": "JAV目錄大全",
+		"href": "https://freejavbt02.com/",
+		"desc": "",
+		"logo": "static/icons/freejavbt02.png"
+	},{
+		"name": "Netflav",
+		"href": "https://netflav.com/",
+		"desc": "",
+		"logo": "static/icons/Netflav.png"
+	},{
+		"name": "久爱网",
+		"href": "https://lbvjiuawc.buzz/",
+		"desc": "",
+		"logo": "static/icons/lbvjiuawc.png"
+	},{
+		"name": "暗网禁区",
+		"href": "https://awjqub.icu/",
+		"desc": "",
+		"logo": "static/icons/awjqub.png"
+	},{
+		"name": "浴室少女",
+		"href": "https://www.fld81.com/",
+		"desc": "",
+		"logo": "static/icons/fld81.png"
+	},{
+		"name": "18 AV",
+		"href": "https://mjv001.com/",
+		"desc": "",
+		"logo": "static/icons/18 AV.png"
+	},{
+		"name": "Joble TV",
+		"href": "https://jable.tv/",
+		"desc": "",
+		"logo": "static/icons/Joble TV.png"
+	},{
+		"name": "正妹 AV",
+		"href": "https://goodav17.com/",
+		"desc": "",
+		"logo": "static/icons/goodav17.png"
+	},{
+		"name": "狗狗 AV",
+		"href": "https://gogo.pipigou805.top/",
+		"desc": "",
+		"logo": "static/icons/gogo.png"
+	},{
+		"name": "Tiss AV",
+		"href": "https://thisav.com/dm10/cn/",
+		"desc": "",
+		"logo": "static/icons/Tiss AV.png"
+	},{
+		"name": "Miss AV",
+		"href": "https://missav.com/dm10/cn/",
+		"desc": "",
+		"logo": "static/icons/Tiss AV.png"
+	},{
+		"name": "Japnhub",
+		"href": "https://japanhub.net/",
+		"desc": "",
+		"logo": "static/icons/Japnhub.png"
+	},{
+		"name": "HighPorn",
+		"href": "https://highporn.net/",
+		"desc": "",
+		"logo": "static/icons/Japnhub.png"
+	}]
+},{
+	"_id": "zijiandaohang",
+	"classify": "自建导航",
+	"icon": "ti-user",
+	"sites": [{
+		"name": "杨磊的网站",
+		"href": "https://yangleiily.icoc.vc/",
+		"desc": "个人网站",
+		"logo": "static/icons/yangleiily.png"
+	},{
+		"name": "杨磊的博客",
+		"href": "https://blog520.freeddns.org/",
+		"desc": "hashnode",
+		"logo": "static/icons/freeddns.png"
+	},{
+		"name": "杨磊的分享博客",
+		"href": "https://blog520.000.pe/",
+		"desc": "infinityfree",
+		"logo": "static/icons/Wordpress.png"
+	},{
+		"name": "杨磊博客",
+		"href": "https://www.blog520.us.kg/",
+		"desc": "Blogger",
+		"logo": "static/icons/blog520.png"
+	},{
+		"name": "冰宝路导航站",
+		"href": "https://yanglei.nyc.mn/",
+		"desc": "Cloudflare",
+		"logo": "static/icons/520dh.png"
+	},{
+		"name": "冰淇淋导航",
+		"href": "https://dh520.us.kg/",
+		"desc": "",
+		"logo": "static/icons/dh520.png"
+	}]
+}]
