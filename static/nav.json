@@ -1172,6 +1172,16 @@
 		"href": "https://www.site.ac/",
 		"desc": "",
 		"logo": "static/icons/site.ac.png"
+	},{
+		"name": "Duck DNS",
+		"href": "https://www.duckdns.org/",
+		"desc": "",
+		"logo": "static/icons/duckdns.png"
+	},{
+		"name": "Dynamic IP",
+		"href": "https://www.noip.com/",
+		"desc": "",
+		"logo": "static/icons/noip.png"
 	}]
 },{
 	"_id": "windowsruanjianxiazai",
